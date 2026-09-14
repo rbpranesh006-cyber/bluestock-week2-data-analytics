@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="oB1mCtsoHQcL68WX2shU">
+    <mxGraphModel grid="1" page="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sw-e_hEntgNRV_nc9tjQ-34" edge="1" parent="1" source="sw-e_hEntgNRV_nc9tjQ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sw-e_hEntgNRV_nc9tjQ-37" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sw-e_hEntgNRV_nc9tjQ-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;Frontend / Web Application" vertex="1">
+          <mxGeometry height="40" width="120" x="228" y="134" as="geometry" />
+        </mxCell>
+        <mxCell id="sw-e_hEntgNRV_nc9tjQ-36" edge="1" parent="1" source="sw-e_hEntgNRV_nc9tjQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sw-e_hEntgNRV_nc9tjQ-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sw-e_hEntgNRV_nc9tjQ-37" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&#xa;Backend / REST API&#xa;&#xa;" vertex="1">
+          <mxGeometry height="40" width="120" x="228" y="204" as="geometry" />
+        </mxCell>
+        <mxCell id="sw-e_hEntgNRV_nc9tjQ-38" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="294" y="134" as="sourcePoint" />
+            <mxPoint x="294" y="134" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sw-e_hEntgNRV_nc9tjQ-39" edge="1" parent="1" source="sw-e_hEntgNRV_nc9tjQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sw-e_hEntgNRV_nc9tjQ-42" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sw-e_hEntgNRV_nc9tjQ-40" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&#xa;Authentication&#xa;&#xa;" vertex="1">
+          <mxGeometry height="40" width="120" x="228" y="284" as="geometry" />
+        </mxCell>
+        <mxCell id="sw-e_hEntgNRV_nc9tjQ-41" edge="1" parent="1" source="sw-e_hEntgNRV_nc9tjQ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sw-e_hEntgNRV_nc9tjQ-46" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sw-e_hEntgNRV_nc9tjQ-42" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&#xa;Database&#xa;&#xa;" vertex="1">
+          <mxGeometry height="30" width="120" x="228" y="364" as="geometry" />
+        </mxCell>
+        <mxCell id="sw-e_hEntgNRV_nc9tjQ-43" edge="1" parent="1" source="sw-e_hEntgNRV_nc9tjQ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sw-e_hEntgNRV_nc9tjQ-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sw-e_hEntgNRV_nc9tjQ-44" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&#xa;User&#xa;&#xa;" vertex="1">
+          <mxGeometry height="40" width="120" x="228" y="44" as="geometry" />
+        </mxCell>
+        <mxCell id="sw-e_hEntgNRV_nc9tjQ-45" edge="1" parent="1" source="sw-e_hEntgNRV_nc9tjQ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sw-e_hEntgNRV_nc9tjQ-47" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sw-e_hEntgNRV_nc9tjQ-46" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&#xa;ETL / Data Pipeline&#xa;&#xa;" vertex="1">
+          <mxGeometry height="40" width="120" x="228" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="sw-e_hEntgNRV_nc9tjQ-47" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&#xa;Analytics / BI Dashboard&#xa;&#xa;" vertex="1">
+          <mxGeometry height="50" width="120" x="228" y="514" as="geometry" />
+        </mxCell>
+        <mxCell id="sw-e_hEntgNRV_nc9tjQ-48" edge="1" parent="1" source="sw-e_hEntgNRV_nc9tjQ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sw-e_hEntgNRV_nc9tjQ-52" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sw-e_hEntgNRV_nc9tjQ-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span class=&quot;w6asjq_TextBase _85PZeG_Text&quot;&gt;Backend / REST API&lt;/span&gt; &#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="234" y="584" as="geometry" />
+        </mxCell>
+        <mxCell id="sw-e_hEntgNRV_nc9tjQ-50" edge="1" parent="1" source="sw-e_hEntgNRV_nc9tjQ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sw-e_hEntgNRV_nc9tjQ-53" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sw-e_hEntgNRV_nc9tjQ-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;ETL / Data Pipeline&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="234" y="664" as="geometry" />
+        </mxCell>
+        <mxCell id="sw-e_hEntgNRV_nc9tjQ-52" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&#xa;Logging&#xa;&#xa;" vertex="1">
+          <mxGeometry height="40" width="120" x="394" y="594" as="geometry" />
+        </mxCell>
+        <mxCell id="sw-e_hEntgNRV_nc9tjQ-53" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&#xa;Error Handling&#xa;&#xa;" vertex="1">
+          <mxGeometry height="30" width="120" x="394" y="684" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
